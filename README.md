@@ -1,5 +1,5 @@
-Onde parei na aula 2: 23:49 / 1:11:42
-https://www.youtube.com/watch?v=cUT665tW4v8&t=1433s
+Onde parei na aula 2: 48:32 / 1:11:42
+https://youtu.be/cUT665tW4v8?t=2912
 
 ## ✨ Tecnologias
 -  [ ] React
@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=cUT665tW4v8&t=1433s
 -  [ ] Headless CMS (Content Management System) com graphcms
 -  [ ] @apollo/client and Graphql
 -  [ ] svg2jsx para gerar um componente SVG (https://svg2jsx.com/)
+- [ ] Phosphor icon family (https://phosphoricons.com/)
 
 ## 🔖 Layout
 
