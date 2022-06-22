@@ -1,4 +1,5 @@
 Onde parei na aula 2: 23:49 / 1:11:42
+https://www.youtube.com/watch?v=cUT665tW4v8&t=1433s
 
 ## ✨ Tecnologias
 -  [ ] React
