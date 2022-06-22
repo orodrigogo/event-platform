@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-zinc-900 text-zinc-100;
+  @apply bg-gray-900 text-gray-100;
 }

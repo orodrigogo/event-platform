@@ -1,9 +1,12 @@
+Onde parei na aula 2: 23:49 / 1:11:42
+
 ## ✨ Tecnologias
 -  [ ] React
 -  [ ] Typescript
 -  [ ] Tailwind CSS
 -  [ ] Headless CMS (Content Management System) com graphcms
 -  [ ] @apollo/client and Graphql
+-  [ ] svg2jsx para gerar um componente SVG (https://svg2jsx.com/)
 
 ## 🔖 Layout
 
