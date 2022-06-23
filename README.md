@@ -1,5 +1,6 @@
+![App Screenshot](.github/cover.png)
 
-## ✨ Tecnologias
+## ✨ Stack
 -  [ ] React
 -  [ ] Typescript
 -  [ ] Tailwind CSS
@@ -14,14 +15,18 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## Executando o projeto
 
-Execute no seu terminar, na pasta do projeto o `npm install` para instalar as dependências do projeto. Em seguida, execute:
-Em seguida, inicie o projeto.
+Pelo seu terminal navegue até a pasta do projeto e execute:
 
 ```cl
-npm run dev
+  npm install
+  npm run dev
 ```
 
-<br />
 
-[![Instagram Badge](https://img.shields.io/badge/-rodrigo.goncalves.s-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/rodrigo.goncalves.s/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/) 
+## Contato
+
+Siga-me no Linkedin, estou sempre por lá.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/) 
+</div>.com/in/rodrigo-gon%C3%A7alves-santana/) 
+</div>
