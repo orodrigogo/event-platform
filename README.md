@@ -7,7 +7,8 @@
 -  [ ] Headless CMS (Content Management System) com graphcms
 -  [ ] @apollo/client and Graphql
 -  [ ] svg2jsx para gerar um componente SVG (https://svg2jsx.com/)
-- [ ] Phosphor icon family (https://phosphoricons.com/)
+-  [ ] Phosphor icon family (https://phosphoricons.com/)
+-  [ ] Lib classnames
 
 ## 🔖 Layout
 
