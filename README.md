@@ -9,6 +9,7 @@
 -  [ ] svg2jsx para gerar um componente SVG (https://svg2jsx.com/)
 -  [ ] Phosphor icon family (https://phosphoricons.com/)
 -  [ ] Lib classnames
+-  [ ] graphql-code-generator (https://www.graphql-code-generator.com/docs/getting-startedinstallation
 
 ## 🔖 Layout
 
